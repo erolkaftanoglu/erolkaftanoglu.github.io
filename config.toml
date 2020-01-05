@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hello-friend"
@@ -16,8 +16,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Erol Kaftanoglu"
+    subtitle = "a developer blog"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -31,7 +31,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "erol kaftanoglu"
       logoHomeLink = "/"
     # or
     #

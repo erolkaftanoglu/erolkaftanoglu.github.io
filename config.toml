@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Erol Kaftanoglu"
 theme = "hermit"
 # paginate = 5
-# enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 rssLimit = 10  # Maximum number of items in the RSS feed.
@@ -27,7 +26,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   homeSubtitle = "Site is still in progress"
-  gitUrl = "https://github.com/erolkaftanoglu/repository/commit/"
   justifyContent = false  # Set "text-align: justify" to `.content`.
   relatedPosts = false  # Add a related content section to all single posts page
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
@@ -35,15 +33,15 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/erolkaftanoglu"
 
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/"
+    url = "https://instagram.com/erolkaftanoglu"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/erolkaftanoglu"
 
 [author]
   name = "John Doe"

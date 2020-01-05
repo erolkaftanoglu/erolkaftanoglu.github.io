@@ -14,3 +14,5 @@ git remote add origin https://github.com/erolkaftanoglu/erolkaftanoglu.github.io
 git add .
 git commit -m "webSite"
 git push origin master -f
+
+echo "https://erolkaftanoglu.com"

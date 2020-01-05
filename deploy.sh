@@ -13,4 +13,4 @@ git init
 git remote add origin https://github.com/erolkaftanoglu/erolkaftanoglu.github.io.git
 git add .
 git commit -m "webSite"
-git push origin master
+git push origin master -f

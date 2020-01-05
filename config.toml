@@ -26,7 +26,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "Site is still in progress"
   gitUrl = "https://github.com/erolkaftanoglu/repository/commit/"
   justifyContent = false  # Set "text-align: justify" to `.content`.
   relatedPosts = false  # Add a related content section to all single posts page

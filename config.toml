@@ -1,49 +1,98 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "hello-friend"
+theme = ""
 paginate = 5
+# enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+# disqusShortname = "yourdiscussshortname"
 
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # "light" or "dark"
-  defaultTheme = "dark"
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
-  # Show reading time in minutes for posts
-  showReadingTime = false
+  # # dir name of your blog content (default is `content/posts`)
+  # contentTypeName = "posts"
+  # # "light" or "dark"
+  # defaultTheme = "dark"
+  # # if you set this to 0, only submenu trigger will be visible
+  # showMenuItems = 2
+  # # Show reading time in minutes for posts
+  # showReadingTime = false
+  themeColor = "#494f5c"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
 
-[languages]
-  [languages.en]
-    title = "Erol Kaftanoglu"
-    subtitle = "a developer blog"
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
+  homeSubtitle = "A minimal and fast theme for Hugo."
+  gitUrl = "https://github.com/erolkaftanoglu/repository/commit/"
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+  relatedPosts = false  # Add a related content section to all single posts page
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/"
 
-    [languages.en.params.logo]
-      logoText = "erol kaftanoglu"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcasex"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/"
+
+[author]
+  name = "John Doe"
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about-hugo/"
+    weight = 20
+
+# [languages]
+#   [languages.en]
+#     title = "Erol Kaftanoglu"
+#     subtitle = "a developer blog"
+#     keywords = ""
+#     copyright = ""
+#     menuMore = "Show more"
+#     writtenBy = "Written by"
+#     readMore = "Read more"
+#     readOtherPosts = "Read other posts"
+#     newerPosts = "Newer posts"
+#     olderPosts = "Older posts"
+#     minuteReadingTime = "min read"
+#     dateFormatSingle = "2006-01-02"
+#     dateFormatList = "2006-01-02"
+
+#     [languages.en.params.logo]
+#       logoText = "erol kaftanoglu"
+#       logoHomeLink = "/"
+#     # or
+#     #
+#     # path = "/img/your-example-logo.svg"
+#     # alt = "Your example logo alt text"
+
+#     [languages.en.menu]
+#       [[languages.en.menu.main]]
+#         identifier = "about"
+#         name = "About"
+#         url = "/about"
+#       [[languages.en.menu.main]]
+#         identifier = "showcase"
+#         name = "Showcase"
+#         url = "/showcasex"

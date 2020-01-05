@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Erol Kaftanoglu</title>
+		<link>/posts/</link>
+		<description>Recent content in Posts on Erol Kaftanoglu</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sun, 05 Jan 2020 13:35:26 +0300</lastBuildDate>
+		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Getting Start Firebase</title>
+			<link>/posts/getting-start-firebase/</link>
+			<pubDate>Sun, 05 Jan 2020 13:35:26 +0300</pubDate>
+			
+			<guid>/posts/getting-start-firebase/</guid>
+			<description>Start with Firebase Firebase helps mobile and web app teams succeed
+var s = &amp;#34;Firebase just like JS&amp;#34;; alert(s); </description>
+			<content type="html"><![CDATA[<h2 id="start-with-firebase">Start with Firebase</h2>
+<p>Firebase helps mobile and web app teams succeed</p>
+<p><img src="https://tinuiti.com/wp-content/uploads/2019/05/Google-Firebase-logo-e1494819679178-1080x675.png" alt="alt text" title="Logo Title Text 1"></p>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="s2">&#34;Firebase just like JS&#34;</span><span class="p">;</span>
+<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">)</span><span class="p">;</span>
+</code></pre></div>]]></content>
+		</item>
+		
+		<item>
+			<title>Hello Friend</title>
+			<link>/posts/hello/</link>
+			<pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+			
+			<guid>/posts/hello/</guid>
+			<description> &amp;ldquo;Hello, friend?&amp;rdquo; That&#39;s lame. Maybe I should give you a name&amp;hellip; But that&#39;s a slippery slope. You&#39;re only in my head. We have to remember that&amp;hellip; Shit. It&#39;s actually happened. I&#39;m talking to an imaginary person.
+— Mr. Robot S01E01
+ </description>
+			<content type="html"><![CDATA[<blockquote>
+<p>&ldquo;Hello, friend?&rdquo; That's lame.
+Maybe I should give you a name&hellip;
+But that's a slippery slope.
+You're only in my head.
+We have to remember that&hellip;
+Shit.
+It's actually happened.
+I'm talking to an imaginary person.</p>
+<p><strong>— Mr. Robot S01E01</strong></p>
+</blockquote>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

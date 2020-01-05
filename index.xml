@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erol Kaftanoglu</title>
+    <link>/</link>
+    <description>Recent content on Erol Kaftanoglu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 05 Jan 2020 13:35:26 +0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 05 Jan 2020 13:35:26 +0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi there My name is Erol and I&#39;m software developer.</description>
+    </item>
+    
+    <item>
+      <title>Getting Start Firebase</title>
+      <link>/posts/getting-start-firebase/</link>
+      <pubDate>Sun, 05 Jan 2020 13:35:26 +0300</pubDate>
+      
+      <guid>/posts/getting-start-firebase/</guid>
+      <description>Start with Firebase Firebase helps mobile and web app teams succeed
+var s = &amp;#34;Firebase just like JS&amp;#34;; alert(s); </description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>/showcasex/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/showcasex/</guid>
+      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>/posts/hello/</link>
+      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&#39;s lame. Maybe I should give you a name&amp;hellip; But that&#39;s a slippery slope. You&#39;re only in my head. We have to remember that&amp;hellip; Shit. It&#39;s actually happened. I&#39;m talking to an imaginary person.
+— Mr. Robot S01E01
+ </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
